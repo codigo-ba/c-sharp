@@ -1,0 +1,15 @@
+/workspaces/c-sharp/tp_pedidos/bin/Debug/net8.0/tp_pedidos
+/workspaces/c-sharp/tp_pedidos/bin/Debug/net8.0/tp_pedidos.deps.json
+/workspaces/c-sharp/tp_pedidos/bin/Debug/net8.0/tp_pedidos.runtimeconfig.json
+/workspaces/c-sharp/tp_pedidos/bin/Debug/net8.0/tp_pedidos.dll
+/workspaces/c-sharp/tp_pedidos/bin/Debug/net8.0/tp_pedidos.pdb
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/tp_pedidos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/tp_pedidos.AssemblyInfoInputs.cache
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/tp_pedidos.AssemblyInfo.cs
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/tp_pedidos.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/tp_pedidos.sourcelink.json
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/tp_pedidos.dll
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/refint/tp_pedidos.dll
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/tp_pedidos.pdb
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/tp_pedidos.genruntimeconfig.cache
+/workspaces/c-sharp/tp_pedidos/obj/Debug/net8.0/ref/tp_pedidos.dll

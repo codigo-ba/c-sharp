@@ -1,0 +1,15 @@
+/workspaces/c-sharp/ejerc/bin/Debug/net10.0/ejerc
+/workspaces/c-sharp/ejerc/bin/Debug/net10.0/ejerc.deps.json
+/workspaces/c-sharp/ejerc/bin/Debug/net10.0/ejerc.runtimeconfig.json
+/workspaces/c-sharp/ejerc/bin/Debug/net10.0/ejerc.dll
+/workspaces/c-sharp/ejerc/bin/Debug/net10.0/ejerc.pdb
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ejerc.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ejerc.AssemblyInfoInputs.cache
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ejerc.AssemblyInfo.cs
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ejerc.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ejerc.sourcelink.json
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ejerc.dll
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/refint/ejerc.dll
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ejerc.pdb
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ejerc.genruntimeconfig.cache
+/workspaces/c-sharp/ejerc/obj/Debug/net10.0/ref/ejerc.dll

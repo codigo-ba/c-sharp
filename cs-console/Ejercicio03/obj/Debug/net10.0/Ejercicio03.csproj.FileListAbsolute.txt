@@ -1,0 +1,15 @@
+/workspaces/c-sharp/cs-console/Ejercicio03/bin/Debug/net10.0/Ejercicio03
+/workspaces/c-sharp/cs-console/Ejercicio03/bin/Debug/net10.0/Ejercicio03.deps.json
+/workspaces/c-sharp/cs-console/Ejercicio03/bin/Debug/net10.0/Ejercicio03.runtimeconfig.json
+/workspaces/c-sharp/cs-console/Ejercicio03/bin/Debug/net10.0/Ejercicio03.dll
+/workspaces/c-sharp/cs-console/Ejercicio03/bin/Debug/net10.0/Ejercicio03.pdb
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/Ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/Ejercicio03.AssemblyInfoInputs.cache
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/Ejercicio03.AssemblyInfo.cs
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/Ejercicio03.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/Ejercicio03.sourcelink.json
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/Ejercicio03.dll
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/refint/Ejercicio03.dll
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/Ejercicio03.pdb
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/Ejercicio03.genruntimeconfig.cache
+/workspaces/c-sharp/cs-console/Ejercicio03/obj/Debug/net10.0/ref/Ejercicio03.dll

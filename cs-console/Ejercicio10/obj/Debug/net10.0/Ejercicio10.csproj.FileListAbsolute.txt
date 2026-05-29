@@ -1,0 +1,15 @@
+/workspaces/c-sharp/cs-console/Ejercicio10/bin/Debug/net10.0/Ejercicio10
+/workspaces/c-sharp/cs-console/Ejercicio10/bin/Debug/net10.0/Ejercicio10.deps.json
+/workspaces/c-sharp/cs-console/Ejercicio10/bin/Debug/net10.0/Ejercicio10.runtimeconfig.json
+/workspaces/c-sharp/cs-console/Ejercicio10/bin/Debug/net10.0/Ejercicio10.dll
+/workspaces/c-sharp/cs-console/Ejercicio10/bin/Debug/net10.0/Ejercicio10.pdb
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/Ejercicio10.AssemblyInfoInputs.cache
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/Ejercicio10.AssemblyInfo.cs
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/Ejercicio10.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/Ejercicio10.sourcelink.json
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/Ejercicio10.dll
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/refint/Ejercicio10.dll
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/Ejercicio10.pdb
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/Ejercicio10.genruntimeconfig.cache
+/workspaces/c-sharp/cs-console/Ejercicio10/obj/Debug/net10.0/ref/Ejercicio10.dll

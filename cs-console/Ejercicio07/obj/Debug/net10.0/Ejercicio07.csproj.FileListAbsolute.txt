@@ -1,0 +1,15 @@
+/workspaces/c-sharp/cs-console/Ejercicio07/bin/Debug/net10.0/Ejercicio07
+/workspaces/c-sharp/cs-console/Ejercicio07/bin/Debug/net10.0/Ejercicio07.deps.json
+/workspaces/c-sharp/cs-console/Ejercicio07/bin/Debug/net10.0/Ejercicio07.runtimeconfig.json
+/workspaces/c-sharp/cs-console/Ejercicio07/bin/Debug/net10.0/Ejercicio07.dll
+/workspaces/c-sharp/cs-console/Ejercicio07/bin/Debug/net10.0/Ejercicio07.pdb
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/Ejercicio07.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/Ejercicio07.AssemblyInfoInputs.cache
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/Ejercicio07.AssemblyInfo.cs
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/Ejercicio07.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/Ejercicio07.sourcelink.json
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/Ejercicio07.dll
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/refint/Ejercicio07.dll
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/Ejercicio07.pdb
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/Ejercicio07.genruntimeconfig.cache
+/workspaces/c-sharp/cs-console/Ejercicio07/obj/Debug/net10.0/ref/Ejercicio07.dll

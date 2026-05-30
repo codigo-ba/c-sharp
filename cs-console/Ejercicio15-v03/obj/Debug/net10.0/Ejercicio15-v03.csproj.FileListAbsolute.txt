@@ -1,0 +1,15 @@
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/bin/Debug/net10.0/Ejercicio15-v03
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/bin/Debug/net10.0/Ejercicio15-v03.deps.json
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/bin/Debug/net10.0/Ejercicio15-v03.runtimeconfig.json
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/bin/Debug/net10.0/Ejercicio15-v03.dll
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/bin/Debug/net10.0/Ejercicio15-v03.pdb
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/Ejercicio15-v03.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/Ejercicio15-v03.AssemblyInfoInputs.cache
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/Ejercicio15-v03.AssemblyInfo.cs
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/Ejercicio15-v03.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/Ejercicio15-v03.sourcelink.json
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/Ejercicio15-v03.dll
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/refint/Ejercicio15-v03.dll
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/Ejercicio15-v03.pdb
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/Ejercicio15-v03.genruntimeconfig.cache
+/workspaces/c-sharp/cs-console/Ejercicio15-v03/obj/Debug/net10.0/ref/Ejercicio15-v03.dll

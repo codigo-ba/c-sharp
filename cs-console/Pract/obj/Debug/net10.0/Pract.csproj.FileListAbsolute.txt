@@ -1,0 +1,15 @@
+/workspaces/c-sharp/cs-console/Pract/bin/Debug/net10.0/Pract
+/workspaces/c-sharp/cs-console/Pract/bin/Debug/net10.0/Pract.deps.json
+/workspaces/c-sharp/cs-console/Pract/bin/Debug/net10.0/Pract.runtimeconfig.json
+/workspaces/c-sharp/cs-console/Pract/bin/Debug/net10.0/Pract.dll
+/workspaces/c-sharp/cs-console/Pract/bin/Debug/net10.0/Pract.pdb
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/Pract.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/Pract.AssemblyInfoInputs.cache
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/Pract.AssemblyInfo.cs
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/Pract.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/Pract.sourcelink.json
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/Pract.dll
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/refint/Pract.dll
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/Pract.pdb
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/Pract.genruntimeconfig.cache
+/workspaces/c-sharp/cs-console/Pract/obj/Debug/net10.0/ref/Pract.dll

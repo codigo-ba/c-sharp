@@ -1,0 +1,15 @@
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/bin/Debug/net10.0/Func-Vec-Integrador
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/bin/Debug/net10.0/Func-Vec-Integrador.deps.json
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/bin/Debug/net10.0/Func-Vec-Integrador.runtimeconfig.json
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/bin/Debug/net10.0/Func-Vec-Integrador.dll
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/bin/Debug/net10.0/Func-Vec-Integrador.pdb
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/Func-Vec-Integrador.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/Func-Vec-Integrador.AssemblyInfoInputs.cache
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/Func-Vec-Integrador.AssemblyInfo.cs
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/Func-Vec-Integrador.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/Func-Vec-Integrador.sourcelink.json
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/Func-Vec-Integrador.dll
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/refint/Func-Vec-Integrador.dll
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/Func-Vec-Integrador.pdb
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/Func-Vec-Integrador.genruntimeconfig.cache
+/workspaces/c-sharp/cs-console/Func-Vec-Integrador/obj/Debug/net10.0/ref/Func-Vec-Integrador.dll

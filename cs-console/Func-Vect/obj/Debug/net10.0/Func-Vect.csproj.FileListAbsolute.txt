@@ -1,0 +1,15 @@
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/Func-Vect.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/Func-Vect.AssemblyInfoInputs.cache
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/Func-Vect.AssemblyInfo.cs
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/Func-Vect.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/Func-Vect.sourcelink.json
+/workspaces/c-sharp/cs-console/Func-Vect/bin/Debug/net10.0/Func-Vect
+/workspaces/c-sharp/cs-console/Func-Vect/bin/Debug/net10.0/Func-Vect.deps.json
+/workspaces/c-sharp/cs-console/Func-Vect/bin/Debug/net10.0/Func-Vect.runtimeconfig.json
+/workspaces/c-sharp/cs-console/Func-Vect/bin/Debug/net10.0/Func-Vect.dll
+/workspaces/c-sharp/cs-console/Func-Vect/bin/Debug/net10.0/Func-Vect.pdb
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/Func-Vect.dll
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/refint/Func-Vect.dll
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/Func-Vect.pdb
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/Func-Vect.genruntimeconfig.cache
+/workspaces/c-sharp/cs-console/Func-Vect/obj/Debug/net10.0/ref/Func-Vect.dll

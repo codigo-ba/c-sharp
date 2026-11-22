@@ -1,0 +1,15 @@
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/bin/Debug/net10.0/block1_E_05
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/bin/Debug/net10.0/block1_E_05.deps.json
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/bin/Debug/net10.0/block1_E_05.runtimeconfig.json
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/bin/Debug/net10.0/block1_E_05.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/bin/Debug/net10.0/block1_E_05.pdb
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/block1_E_05.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/block1_E_05.AssemblyInfoInputs.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/block1_E_05.AssemblyInfo.cs
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/block1_E_05.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/block1_E_05.sourcelink.json
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/block1_E_05.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/refint/block1_E_05.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/block1_E_05.pdb
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/block1_E_05.genruntimeconfig.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block1_E_05/obj/Debug/net10.0/ref/block1_E_05.dll

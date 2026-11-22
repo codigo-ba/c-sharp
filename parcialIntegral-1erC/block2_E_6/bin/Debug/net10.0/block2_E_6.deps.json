@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "block2_E_6/1.0.0": {
+        "runtime": {
+          "block2_E_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "block2_E_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

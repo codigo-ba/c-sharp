@@ -1,0 +1,15 @@
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/bin/Debug/net10.0/block4_funcE_17
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/bin/Debug/net10.0/block4_funcE_17.deps.json
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/bin/Debug/net10.0/block4_funcE_17.runtimeconfig.json
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/bin/Debug/net10.0/block4_funcE_17.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/bin/Debug/net10.0/block4_funcE_17.pdb
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/block4_funcE_17.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/block4_funcE_17.AssemblyInfoInputs.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/block4_funcE_17.AssemblyInfo.cs
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/block4_funcE_17.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/block4_funcE_17.sourcelink.json
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/block4_funcE_17.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/refint/block4_funcE_17.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/block4_funcE_17.pdb
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/block4_funcE_17.genruntimeconfig.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block4_funcE_17/obj/Debug/net10.0/ref/block4_funcE_17.dll

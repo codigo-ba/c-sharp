@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "block4_funcE_20/1.0.0": {
+        "runtime": {
+          "block4_funcE_20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "block4_funcE_20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

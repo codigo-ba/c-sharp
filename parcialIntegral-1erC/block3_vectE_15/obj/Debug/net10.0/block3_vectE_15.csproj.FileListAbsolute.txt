@@ -1,0 +1,15 @@
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/bin/Debug/net10.0/block3_vectE_15
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/bin/Debug/net10.0/block3_vectE_15.deps.json
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/bin/Debug/net10.0/block3_vectE_15.runtimeconfig.json
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/bin/Debug/net10.0/block3_vectE_15.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/bin/Debug/net10.0/block3_vectE_15.pdb
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/block3_vectE_15.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/block3_vectE_15.AssemblyInfoInputs.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/block3_vectE_15.AssemblyInfo.cs
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/block3_vectE_15.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/block3_vectE_15.sourcelink.json
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/block3_vectE_15.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/refint/block3_vectE_15.dll
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/block3_vectE_15.pdb
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/block3_vectE_15.genruntimeconfig.cache
+/workspaces/c-sharp/parcialIntegral-1erC/block3_vectE_15/obj/Debug/net10.0/ref/block3_vectE_15.dll
